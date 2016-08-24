@@ -1,0 +1,10 @@
+Firsts workflow
+ 1 create task on a story
+ 2 conplete a sprint 
+ 3 edit a story
+ 4 set a project into a workspace
+ 5 assing story to many users
+ 6 add users into a project 
+
+ 
+	
