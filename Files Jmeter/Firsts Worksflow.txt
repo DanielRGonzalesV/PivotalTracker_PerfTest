@@ -18,7 +18,11 @@ Firsts workflow
    * Move projects from Workspae A into Workspace B
    * Validate the last step
  5 assing story to many users
- 6 add users into a project 
+ 6 add users into a project
+	* Create project A
+	* Create workspace A
+	* Create stroies into project A
+	* Add member into project A with a random role
 
  
 	
