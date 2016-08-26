@@ -1,8 +1,22 @@
 Firsts workflow
  1 create task on a story
  2 set labels into a project
+	* Create project A
+	* Create labels into project A
+	* Create project B
+	* Move labels from project A into Project b
+	* Get Labels
+	* Verify that the labe were changed into Projec B
  3 edit a story
  4 set a project into a workspace
+   * Create a Workspace A
+   * create projects
+   * Get id of projects
+   * Move projects into a workspace A
+   * Create stories int each project
+   * Create workspace B
+   * Move projects from Workspae A into Workspace B
+   * Validate the last step
  5 assing story to many users
  6 add users into a project 
 
