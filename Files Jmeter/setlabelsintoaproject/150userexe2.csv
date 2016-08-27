@@ -1,0 +1,9 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+create project A,150,1517,643,3394,527.99,2.67%,37.4,56.97,1562.0
+create labels into a project,450,611,168,2166,367.09,55.11%,56.6,36.06,652.2
+get label of project A,150,249,168,1141,202.53,83.33%,22.2,9.99,460.5
+create project B,150,211,168,899,94.92,86.00%,22.3,10.68,489.9
+create labels into Project B,750,253,167,1092,194.60,98.00%,89.2,31.47,361.2
+get labels,150,330,168,966,260.74,98.67%,19.3,8.31,440.6
+Debug Sampler,150,0,0,1,0.18,0.00%,19.7,9.27,480.7
+TOTAL,1950,415,0,3394,455.68,71.23%,164.4,88.86,553.6
