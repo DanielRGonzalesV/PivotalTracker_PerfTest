@@ -20,9 +20,18 @@ Firsts workflow
  5 assing story to many users
  6 add users into a project
 	* Create project A
+	* getProjectId A
 	* Create workspace A
 	* Create stroies into project A
 	* Add member into project A with a random role
+ 8 add comments into a story
+	* create project
+	* create stories
+	* get stories
+	* create comments into a story
+	* get  new commments
+	* validate each comment
+
 
  
 	
