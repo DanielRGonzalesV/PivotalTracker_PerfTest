@@ -1,0 +1,9 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Create project,100,1243,640,3343,544.07,6.00%,24.3,36.91,1555.4
+create story,100,1753,547,3885,838.95,7.00%,15.7,17.48,1140.0
+create task on story,100,2001,564,3486,771.49,9.00%,11.3,11.06,1003.5
+Update stimate and started story,100,1858,186,3258,667.46,11.00%,12.1,13.41,1130.4
+Update state to accepted Story,100,1561,200,2855,663.44,16.00%,13.8,15.48,1148.0
+Update date accepted story ,100,1050,170,2365,502.52,56.00%,15.6,11.86,778.9
+Delete project,100,505,169,2203,447.85,69.00%,14.7,6.62,460.6
+TOTAL,700,1424,169,3885,810.50,24.86%,39.6,39.87,1031.0

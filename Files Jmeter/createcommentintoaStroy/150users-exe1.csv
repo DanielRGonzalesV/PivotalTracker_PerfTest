@@ -1,5 +1,0 @@
-Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
-create project,150,0,0,1,0.37,100.00%,142.6,278.63,2001.0
-create stories,600,0,0,3,0.51,100.00%,152.2,297.50,2001.0
-get stories,150,0,0,3,0.38,100.00%,84.9,165.88,2001.0
-TOTAL,900,0,0,3,0.52,100.00%,194.3,379.68,2001.0
