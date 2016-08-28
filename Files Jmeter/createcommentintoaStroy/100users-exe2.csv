@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+create project,100,0,0,1,0.50,100.00%,94.1,183.83,2001.0
+create stories,400,0,0,3,0.47,100.00%,98.3,192.00,2001.0
+get stories,100,0,0,1,0.32,100.00%,54.1,105.80,2001.0
+TOTAL,600,0,0,3,0.51,100.00%,126.6,247.35,2001.0
