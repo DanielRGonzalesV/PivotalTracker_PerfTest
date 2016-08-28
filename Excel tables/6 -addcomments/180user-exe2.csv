@@ -1,0 +1,6 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+create project,180,1521,794,2559,382.17,2.22%,50.0,77.11,1578.8
+create stories,720,604,168,2166,404.36,81.39%,80.8,37.38,474.0
+get stories,180,280,168,983,221.47,70.56%,36.3,21.74,613.8
+create comments into a story,185,726,170,1312,321.13,0.54%,5.9,5.99,1042.7
+TOTAL,1265,706,168,2559,512.22,56.76%,31.6,22.69,734.2

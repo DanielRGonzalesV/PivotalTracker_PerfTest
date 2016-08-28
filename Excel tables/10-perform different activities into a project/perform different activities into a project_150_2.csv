@@ -1,0 +1,9 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+create projects,150,805,519,2324,211.56,100.00%,50.3,15.22,310.0
+create project epics,750,184,168,749,25.91,100.00%,193.5,58.59,310.0
+create story,150,180,168,205,7.44,100.00%,48.3,14.63,310.0
+Update Stimated time,150,310,168,931,247.86,100.00%,48.4,14.64,310.0
+Update Current State,150,395,168,949,279.88,100.00%,48.0,14.54,310.0
+verify project transitions,150,362,168,2019,297.44,100.00%,39.2,11.88,310.0
+verify project epics,150,215,167,878,139.98,100.00%,40.0,12.10,310.0
+TOTAL,1650,290,167,2324,243.36,100.00%,270.2,81.79,310.0

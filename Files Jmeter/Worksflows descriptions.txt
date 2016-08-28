@@ -1,0 +1,83 @@
+Firsts workflow
+ 1 Create task on a story
+	* Create project
+	* Create story
+	* Create task on story created
+	* Updated diffetent features of Story
+	* Delete project created
+2 Set labels into a project
+	* Create project A
+		*Get project A id 
+	* Create labels into project A
+	* Get label of project A
+	* Create project B
+		*Get id of project B
+	* Create labels into project B
+	* Get Labels
+	* Validate labels
+ 3 Edit a story
+	* Create project
+	* Create story
+	* Edit story with previous parameters
+	* Update Stimated time, current state and labels 
+	* Delete project
+  4 Set a various projects into a workspace
+   * Create a Workspace A
+	*Get workspace A id
+   * Create projects
+   * Get id of projects
+   * Move projects into a workspace A
+   * Get projects of workspace A
+   * ForEach project
+   * Loop create stories
+   * Create stories int each project
+ 5 Assing story to many users
+	* Create project
+	* Get all membership 
+	* Create story
+	* Add a membership to project created
+	* Add to membership of project as story owner 
+	* Delete memberships
+	* Delete projects
+ 6 Add comments into a story
+	* Create project A
+	* GetProjectId A
+	* Create stroies into project A
+	* Get stories
+	* Get stories id list
+	* Loop create comment
+	* Create comments into a story
+ 7 Create a project with a new account from original account
+	* Signin to pivotaltracker.com
+	* Get session token
+	* Create Account on the profile
+	* Create project with the new account
+	* Delete account created
+ 8 See iteration and history into a project
+	* Create project A
+	* Get id of projectA
+	* Create workspaceA
+	* Get workspaceA id
+	* Loop create stories
+	* Create stories
+	* See iterations into a project
+	* Verify project history
+	* Validate response code
+ 9 Edit project
+	* Create project
+	* If exist more that a account registerted, change the original account
+	* Edit project with diferents parameters
+	* Create workspace and add the project
+	* Delete workspace
+	* Delete project
+10 Perform different activities into a project 
+	* Create projects
+	* Create project epics
+	* Create story
+	* Update Stimated time
+	* Update Current State
+	* Verify project transitions
+	* Verify project epics
+
+ 
+	

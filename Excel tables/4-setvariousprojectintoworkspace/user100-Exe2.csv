@@ -1,0 +1,8 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+create workspaceA,100,2125,571,4729,984.34,51.00%,18.0,10.81,614.7
+create projects,200,1143,168,3195,728.31,100.00%,27.6,12.58,467.5
+get projects,100,302,168,1894,315.56,99.00%,17.3,5.57,330.0
+get projects of workspace A,100,230,168,1017,173.75,96.00%,22.4,10.47,478.6
+move projets into a workspace A,2,183,183,184,0.50,100.00%,5.4,1.65,310.0
+create stories,4,311,173,717,234.15,100.00%,3.2,0.97,310.0
+TOTAL,506,980,168,4729,951.28,89.33%,60.9,27.93,469.7

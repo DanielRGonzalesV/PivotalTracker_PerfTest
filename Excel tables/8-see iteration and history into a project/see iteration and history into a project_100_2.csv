@@ -1,0 +1,7 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+create project A,100,1148,813,2184,166.82,0.00%,34.7,54.49,1607.1
+create workspaceA,100,306,220,822,99.76,2.00%,36.8,33.73,938.5
+create stories,400,756,285,2664,324.31,20.00%,75.5,76.50,1037.3
+see iterations into a project,100,590,170,2383,400.90,7.00%,23.2,24.38,1078.2
+verify project history,100,683,173,3140,513.52,9.00%,19.1,22.11,1183.1
+TOTAL,800,719,170,3140,396.97,12.25%,87.7,95.89,1119.5
